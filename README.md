@@ -6,8 +6,11 @@ This repository contains a Postman collection and environment setup for testing 
 * Wrote JavaScript-based test scripts to validate:
   
     1.HTTP status codes
+  
     2. JSON responses
+       
     3.Auth token handling
+  
     4.CRUD operations (GET, POST, PUT, DELETE)
    
 
