@@ -24,11 +24,14 @@ The collection includes requests for the following endpoints:
 
 <b>The BookerENV environment file includes:</b>
 
-  ![image](https://github.com/user-attachments/assets/b3810678-4a17-4356-903b-a9c645a95a10)
+![image](https://github.com/user-attachments/assets/f276c4b1-6f9f-4fcc-a17b-9b46343008ff)
+
 
 <h2>Restful Booker Monitoring Report</h2>
 
-![image](https://github.com/user-attachments/assets/a961a06c-1035-46ff-b039-156e596d3a7e)
+![image](https://github.com/user-attachments/assets/6e242bd0-b72c-4875-b8aa-8cf5f869db4f)
+
+
 
 <h2>Newman Report html</h2>
 
@@ -39,7 +42,8 @@ The collection includes requests for the following endpoints:
               npm install -g newman-reporter-html
               newman run RestfulBooker.postman_collection.json -e BookerENV.postman_environment.json -r cli,html
              
-![image](https://github.com/user-attachments/assets/f1f7f903-1f94-41b9-a6f1-fda645061f66)
+![image](https://github.com/user-attachments/assets/d83f492e-9acf-4215-bd71-ada12817fde8)
+
 
 <h2>Newman Report htmlextra</h2>
 
@@ -48,4 +52,5 @@ once newman is install there is no need to install newman again.
               npm install -g newman-reporter-htmlextra
               newman run RestfulBooker.postman_collection.json -e BookerENV.postman_environment.json -r cli,htmlextra
               
-![image](https://github.com/user-attachments/assets/1abc963b-ee5b-45fc-b1eb-fa4fe37b9987)
+![image](https://github.com/user-attachments/assets/d7da4ea6-e29c-46b4-bfe5-e2443b2bfe61)
+
