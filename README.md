@@ -1,5 +1,9 @@
-# Api testing using Postman:Restful-Booker.
+# Api test using Postman:Restful-Booker.
 This repository contains a Postman collection and environment setup for testing the Restful Booker API. The API provides basic functionality for managing hotel bookings.
+🔧 Here's what I worked on:
+* Designed and organized test collections in Postman.
+* Used Collection Runner for executing automated tests.
+* Wrote JavaScript-based test scripts to validate:
 
 <h3>Contents:</h3>
                                    
