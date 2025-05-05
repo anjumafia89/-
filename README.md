@@ -4,10 +4,14 @@ This repository contains a Postman collection and environment setup for testing 
 * Designed and organized test collections in Postman.
 * Used Collection Runner for executing automated tests.
 * Wrote JavaScript-based test scripts to validate:
-          1.HTTP status codes
-         2. JSON responses
-     3.Auth token handling
- 4.CRUD operations (GET, POST, PUT, DELETE)
+  
+    1.HTTP status codes
+  
+    2. JSON responses
+      
+    3.Auth token handling
+      
+    4.CRUD operations (GET, POST, PUT, DELETE)
    
 
 <h3>Contents:</h3>
